@@ -530,7 +530,7 @@ COV: cg_req_type      : 100.0%
 COV: cg_bank_access   : 100.0%
 ...
 COV: cg_tccd_s        : 100.0%
-COV: TOTAL COVERAGE   : XX.X%
+COV: TOTAL COVERAGE   : 90.8%
 ```
 
 ---
